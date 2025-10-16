@@ -172,6 +172,17 @@ h1 {
     border-radius: 6px 0 6px 6px;
 }
 
+.navbar {
+  background-color: #0a0a0a !important; /* o el color de tu preferencia */
+  z-index: 1000;
+}
+
+.navbar a {
+  color: white !important;
+}
+.navbar a:hover {
+  color: #00c853 !important; /* verde BOSON, opcional */
+}
 
 .navbar .nav li.dropdown > a:hover .caret,
 .navbar .nav li.dropdown > a:focus .caret {
