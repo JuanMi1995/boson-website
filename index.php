@@ -13,6 +13,7 @@
 
   <!-- Tu CSS local -->
   <link rel="stylesheet" href="css/estilos.css" />
+  <link rel="stylesheet"  href="css/bootstrap.css">
 
   <!-- Google Tag Manager -->
   <script>
